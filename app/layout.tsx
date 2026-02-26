@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     "Soluções Estratégicas em Promoção, Conteúdo e Capacitação. Atuamos de forma integrada na promoção de vendas, produção de conteúdos editoriais e desenvolvimento profissional.",
   verification: {
     other: {
-      "facebook-domain-verification": ["wwlgr34qqoo8xxdg6bkwg1t6dnhlq5"],
+      "facebook-domain-verification": ["gj11st6iyvtx046kaky8r5qa1zln13"],
     },
   },
 };
